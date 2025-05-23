@@ -46,6 +46,8 @@ The OptiMed Pharma Project is a hybrid database solution designed to address the
 - `/python_application`: Python code for application and visualizations
 - `/docs`: Project documentation
 
+- All the above codes are available in Project Documentation
+
 ## Future Enhancements
 
 - Advanced predictive analytics using machine learning
